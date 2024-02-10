@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+h1{
+    font-size: 100px;
+    font-family:arial;
+    color: aqua;
+}
+label{
+    font-family: arial;
+    color: bisque;
+    font-size: 22px;
+}
+input{
+    font-size: 22px;
+    border-radius: 12px;
+}
+button{
+    background-color: rgb(184, 184, 46);
+    border: none;
+    width: 111px;
+    height: 33px;
+    border-radius: 12px;
+    font-family: arial;
+    font-size: 15px;
+    color: blueviolet;
+    font-weight: 900;
+    
+}
